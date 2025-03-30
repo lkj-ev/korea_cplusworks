@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\ChoiceLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\ForEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\ForEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\WhileEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\WhileEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\IfElseEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\IfElseEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\IfElseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\IfElseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EC8198-BE9C-4E52-809E-25E3BDB18753}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\SwitchCaseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\ForEx1.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\ForEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\ForEx1.cpp",
+              "RelativeToolTip": "ChoiceLoop\\ForEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:43:30.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyRepeat.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\KeyRepeat.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp",
+              "RelativeToolTip": "ChoiceLoop\\KeyRepeat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:27:55.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhileEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\WhileEx2.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\WhileEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\WhileEx2.cpp",
+              "RelativeToolTip": "ChoiceLoop\\WhileEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:18:39.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WhileEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\WhileEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp",
+              "RelativeToolTip": "ChoiceLoop\\WhileEx1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:05:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IfElseEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\IfElseEx.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\IfElseEx.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\IfElseEx.cpp",
+              "RelativeToolTip": "ChoiceLoop\\IfElseEx.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:09:11.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwitchCaseEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\SwitchCaseEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp",
+              "RelativeToolTip": "ChoiceLoop\\SwitchCaseEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:46:13.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwitchCaseEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\SwitchCaseEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp",
+              "RelativeToolTip": "ChoiceLoop\\SwitchCaseEx1.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:37:31.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IfElseEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\IfElseEx2.cpp",
+              "RelativeDocumentMoniker": "ChoiceLoop\\IfElseEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\IfElseEx2.cpp",
+              "RelativeToolTip": "ChoiceLoop\\IfElseEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T00:22:20.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
