@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5201E2BB-EBC5-40EB-B2D3-10C6F32C3E89}|Practice\\Practice.vcxproj|C:\\cplusworks\\Practice\\Practice\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5201E2BB-EBC5-40EB-B2D3-10C6F32C3E89}|Practice\\Practice.vcxproj|solutionrelative:Practice\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5201E2BB-EBC5-40EB-B2D3-10C6F32C3E89}|Practice\\Practice.vcxproj|C:\\cplusworks\\Practice\\Practice\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5201E2BB-EBC5-40EB-B2D3-10C6F32C3E89}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayTest.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Practice\\Practice\\ArrayTest.cpp",
+              "RelativeDocumentMoniker": "Practice\\ArrayTest.cpp",
+              "ToolTip": "C:\\cplusworks\\Practice\\Practice\\ArrayTest.cpp",
+              "RelativeToolTip": "Practice\\ArrayTest.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:08:47.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Seat.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Practice\\Practice\\Seat.cpp",
               "RelativeDocumentMoniker": "Practice\\Seat.cpp",
               "ToolTip": "C:\\cplusworks\\Practice\\Practice\\Seat.cpp",
               "RelativeToolTip": "Practice\\Seat.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-29T00:47:15.537Z",
               "EditorCaption": ""
