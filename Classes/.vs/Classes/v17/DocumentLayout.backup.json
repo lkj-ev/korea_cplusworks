@@ -50,12 +50,17 @@
               "Title": "Transport.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\Transport.cpp",
               "RelativeDocumentMoniker": "Classes\\Transport.cpp",
-              "ToolTip": "C:\\cplusworks\\Classes\\Classes\\Transport.cpp*",
-              "RelativeToolTip": "Classes\\Transport.cpp*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\Classes\\Classes\\Transport.cpp",
+              "RelativeToolTip": "Classes\\Transport.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-05T02:19:43.824Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -67,8 +72,7 @@
               "RelativeToolTip": "Classes\\PointerCircle.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T01:38:24.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T01:38:24.927Z"
             },
             {
               "$type": "Document",
@@ -80,8 +84,7 @@
               "RelativeToolTip": "Classes\\BirthdayThis.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T01:14:34.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T01:14:34.504Z"
             },
             {
               "$type": "Document",
@@ -93,8 +96,7 @@
               "RelativeToolTip": "Classes\\Books2.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T01:10:28.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T01:10:28.651Z"
             },
             {
               "$type": "Document",
@@ -106,8 +108,7 @@
               "RelativeToolTip": "Classes\\Books.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T01:42:35.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T01:42:35.766Z"
             },
             {
               "$type": "Document",
